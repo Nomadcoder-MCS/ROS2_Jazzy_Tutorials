@@ -13,8 +13,6 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "action/Fibonacci.action"
 )
 
-<buildtool_depend>rosidl_default_generators</buildtool_depend>
-<member_of_group>rosidl_interface_packages</member_of_group>
 # uncomment the following section in order to fill in
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
